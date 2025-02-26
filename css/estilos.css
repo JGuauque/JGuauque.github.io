@@ -24,19 +24,19 @@ a:hover {
 }
 
 img {
-    width: 150px; /* Ajusta el tamaño de la imagen */
-    border-radius: 50%; /* Hace que la imagen sea circular */
+    width: 150px;
+    border-radius: 50%;
 }
 
 button {
-    background-color: #4CAF50; /* Color de fondo del botón */
-    color: white; /* Color del texto */
-    padding: 10px 20px; /* Espaciado interno */
-    border: none; /* Sin borde */
-    border-radius: 5px; /* Bordes redondeados */
-    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+    background-color: #2b1cc9;
+    color: white; 
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
 }
 
 button:hover {
-    background-color: #45a049; /* Color al pasar el mouse sobre el botón */
+    background-color: #114313; 
 }
