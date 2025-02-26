@@ -1,0 +1,42 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    color: #333;
+    text-align: center;
+}
+
+h1 {
+    color: #4CAF50;
+    font-size: 2.5em;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+a {
+    color: #2196F3;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    width: 150px; /* Ajusta el tamaño de la imagen */
+    border-radius: 50%; /* Hace que la imagen sea circular */
+}
+
+button {
+    background-color: #4CAF50; /* Color de fondo del botón */
+    color: white; /* Color del texto */
+    padding: 10px 20px; /* Espaciado interno */
+    border: none; /* Sin borde */
+    border-radius: 5px; /* Bordes redondeados */
+    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+}
+
+button:hover {
+    background-color: #45a049; /* Color al pasar el mouse sobre el botón */
+}
